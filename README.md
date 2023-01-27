@@ -1,2 +1,3 @@
 # emailBuilder
-Building an simple email admin app
+I built a simple email administration app adhering to the principles of object oriented programming.
+
